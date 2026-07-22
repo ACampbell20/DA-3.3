@@ -1,3 +1,18 @@
+/*#include "Time.h"
+#include <iostream>
+using namespace std;
+
+void testTimeOutStreamOperator()
+{
+    Time t1;
+    Time t2(9, 5, 3);
+    Time t3(14, 45, 30);
+
+    cout << "t1 = " << t1 << endl;
+    cout << "t2 = " << t2 << endl;
+    cout << "t3 = " << t3 << endl;
+}*/
+
 #include "Time.h"
 #include <iomanip>
 
